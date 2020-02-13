@@ -136,17 +136,18 @@ public class Level : MonoBehaviour
         if (levelCount > 10 && levelCount < 21)
         {
             LevelData medium = ScriptableObject.CreateInstance<LevelData>();
-            medium.Init("medium", 10f, 15f, mediumCamera, mediumCube, mediumSpawns);
+            medium.Init("medium", 12f, 15f, mediumCamera, mediumCube, mediumSpawns);
             levelSize = medium;
         }
         else if (levelCount > 20)
         {
             LevelData large = ScriptableObject.CreateInstance<LevelData>();
-            large.Init("large", 12f, 20f, largeCamera, largeCube, largeSpawns);
+            large.Init("large", 14f, 20f, largeCamera, largeCube, largeSpawns);
             levelSize = large;
         }
 
         timerRaw = levelSize.timer;
+        timerRaw = timerRaw - (levelCount * 0.1f);
         GameObject.Find("Cube").transform.localScale = levelSize.cubeSize;
         GameObject.Find("Main Camera").transform.position = levelSize.cameraLocation;
         Vector3 ghoulmateSpawn = new Vector3(Random.Range(levelSize.spawnCoords[0], levelSize.spawnCoords[1]), 2.25f, Random.Range(levelSize.spawnCoords[2], levelSize.spawnCoords[3]));
