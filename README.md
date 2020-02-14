@@ -1,8 +1,8 @@
 # findingyourghoulmate
 A personal project called Finding Your Ghoulmate, made using Unity, C#, and Blender. Script code can be found at Finding Your Ghoulmate -> Assets -> Scripts. Read more about this project at http://mollymason.me/projects/findingyourghoulmate
 
-~ HOW TO PLAY (Windows) ~
-
+## 🕹️ HOW TO PLAY
+*Windows*
 - Navigate to the 'Builds' folder in this repository
 - Go to the 'Windows.zip' file
 - Download the file
@@ -12,9 +12,7 @@ A personal project called Finding Your Ghoulmate, made using Unity, C#, and Blen
 - Change your graphics and resolution settings, if need be
 - Play!
 
-
-~ HOW TO PLAY (Mac) ~
-
+*Mac*
 - Navigate to the 'Builds' folder in this repository
 - Go to the 'Mac.zip' file
 - Download the file
@@ -22,7 +20,7 @@ A personal project called Finding Your Ghoulmate, made using Unity, C#, and Blen
 - Play!
 
 
-~ HOW TO RUN IN UNITY ~
+## 💻 HOW TO RUN IN UNITY 
 
 - Download the repository
 - Extract files
