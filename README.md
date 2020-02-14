@@ -1,5 +1,7 @@
 # findingyourghoulmate
-A personal project called Finding Your Ghoulmate, made using Unity, C#, and Blender. Script code can be found at Finding Your Ghoulmate -> Assets -> Scripts. Read more about this project at http://mollymason.me/projects/findingyourghoulmate
+A personal project called Finding Your Ghoulmate, made using Unity, C#, and Blender. Script code can be found at Finding Your Ghoulmate -> Assets -> Scripts. 
+
+Read more about this project at http://mollymason.me/projects/findingyourghoulmate
 
 ## 🕹️ HOW TO PLAY
 *Windows*
