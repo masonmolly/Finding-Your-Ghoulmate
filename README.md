@@ -3,19 +3,23 @@ A little personal project called Finding Your Ghoulmate, made using Unity, C#, a
 
 ~ HOW TO PLAY (Windows) ~
 
-- Download the repository
-- Extract files
-- findingyourghoulmate-master -> Builds -> Windows -> Finding Your Ghoulmate.exe
+- Navigate to the 'Builds' folder in this repository
+- Go to the 'Windows.zip' file
+- Download the file
+- Extract files once downloaded
+- 'Windows' -> 'Finding Your Ghoulmate.exe'
 - If Windows SmartScreen pops up, click more info, and 'run anyway'
-- Change your graphics and resolution settings, if need be (game was created with 1366 x 768 resolution in mind)
-- Click play!
+- Change your graphics and resolution settings, if need be
+- Play!
 
 
 ~ HOW TO PLAY (Mac) ~
 
-- Download the repository
-- Extract files
-- findingyourghoulmate-master -> Builds -> Mac
+- Navigate to the 'Builds' folder in this repository
+- Go to the 'Mac.zip' file
+- Download the file
+- Extract files once downloaded
+- Play!
 
 
 ~ HOW TO RUN IN UNITY ~
