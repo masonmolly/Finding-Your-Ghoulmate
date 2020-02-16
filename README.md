@@ -10,7 +10,7 @@ Read more about this project at http://mollymason.me/projects/findingyourghoulma
 - Download the file
 - Extract files once downloaded
 - 'Windows' -> Load 'Finding Your Ghoulmate.exe'
-- If Windows SmartScreen pops up, click more info, and 'run anyway'
+- If Windows SmartScreen pops up, click more info -> 'Run anyway'
 - Change your graphics and resolution settings, if need be
 - Play!
 
