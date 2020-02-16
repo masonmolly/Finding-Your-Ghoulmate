@@ -9,16 +9,18 @@ Read more about this project at http://mollymason.me/projects/findingyourghoulma
 - Go to the 'Windows.zip' file
 - Download the file
 - Extract files once downloaded
-- 'Windows' -> 'Finding Your Ghoulmate.exe'
+- 'Windows' -> Load 'Finding Your Ghoulmate.exe'
 - If Windows SmartScreen pops up, click more info, and 'run anyway'
 - Change your graphics and resolution settings, if need be
 - Play!
 
 *Mac*
 - Navigate to the 'Builds' folder in this repository
-- Go to the 'Mac.zip' file
+- Go to the 'Mac.app.zip' file
 - Download the file
-- Extract files once downloaded
+- Load the .app
+- If security preferences prevent the application from running, control + click the application -> Click 'Open'
+- Change your graphics and resolution settings, if need be
 - Play!
 
 
